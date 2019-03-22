@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.hci_3_21_testing.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\lorax\\projects\\HCI_3_21_Testing\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "HCI_3_21_Testing [Testing]"
+        }
+      }
+    }
+  ]
+}
